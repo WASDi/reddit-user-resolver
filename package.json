@@ -1,0 +1,14 @@
+{
+    "name": "reddit-user-resolver",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "node reddit-user-resolver-main.js"
+    },
+    "dependencies": {
+        "request": "2.79.x",
+        "cheerio": "0.22.x",
+        "url": "0.11.x"
+    },
+    "private": true,
+    "analyze": true
+}
